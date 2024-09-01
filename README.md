@@ -9,3 +9,5 @@
     </ul>
 
 ![preview img](/preview5.png)
+
+Future Scope : Will Be adding image feature and backend feeatures as well.
